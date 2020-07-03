@@ -1,2 +1,2 @@
 # datasciencecoursera
-A repo for Data Science course on Coursera that linked with RStudio
+A repo for Data Science courses on Coursera that linked with RStudio
