@@ -3,9 +3,9 @@ title: "Regression Model Course: Peer-graded Assignment - Prediction Assignment 
 author: "Quan Nguyen"
 date: "Aug 17, 2020"
 output:
-  html_document: default
-  word_document: default
   md_document: default
+  word_document: default
+  html_document: default
   pdf_document: default
 ---
 
