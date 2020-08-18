@@ -30,7 +30,7 @@ https://quannguyen201294.shinyapps.io/Project3/
 
 Click the link below for compiled project files on gitub repo.
 
-
+https://github.com/quannguyen201294/datasciencecoursera/tree/master/Developing_Product
 
 ## Data Used
 The data used for this application is diamonds data set, which is part of ggplot2 package. Containing information about 53940 diamonds with 10 variables.
