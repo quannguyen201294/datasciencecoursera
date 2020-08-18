@@ -1,8 +1,11 @@
 ---
-title: "JHU Data Science Specialization: Developing Data Product Course - Project Shiny Application and Reproducible Pitch"
+title: 'JHU Data Science Specialization: Developing Data Product Course - Project
+  Shiny Application and Reproducible Pitch'
 author: "Quan Nguyen"
 date: "18/08/2020"
-output: ioslides_presentation
+output:
+  slidy_presentation: default
+  ioslides_presentation: default
 ---
 
 ```{r setup, include=FALSE}
