@@ -17,7 +17,7 @@ shinyUI(fluidPage(
     wellPanel(
       h4("Details"),
       HTML("<p> Github Repository <a href='https://github.com/quannguyen201294/datasciencecoursera/tree/master/Data_Science_Capstone_Project' target='_blank'>https://github.com/quannguyen201294/datasciencecoursera/tree/master/Data_Science_Capstone_Project</a></p>"),
-      HTML("<p> Slide Deck Presentation <a href='https://rpubs.com/quannguyen201294' target='_blank'>https://rpubs.com/quannguyen201294</a></p>"),
+      HTML("<p> Slide Deck Presentation <a href='https://rpubs.com/quannguyen201294/653355' target='_blank'>https://rpubs.com/quannguyen201294/653355</a></p>"),
       h4("Author:"),
       p("Quan Nguyen")
     )
